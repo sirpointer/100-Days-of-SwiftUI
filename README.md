@@ -6,3 +6,7 @@
 
 ## Bucket List
 100 Days of SwiftUI. Project 14: Bucket List. https://www.hackingwithswift.com/books/ios-swiftui/bucket-list-introduction.
+
+## Bookworm
+###### Use Core Data to build an app that tracks books you like
+100 Days of SwiftUI. Project 11: Bookworm. https://www.hackingwithswift.com/books/ios-swiftui/bookworm-introduction.
