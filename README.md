@@ -19,3 +19,6 @@
 ###### Learn how to make your apps available to everyone
 100 Days of SwiftUI. Project 15: Accessibility. https://www.hackingwithswift.com/books/ios-swiftui/accessibility-introduction.
 
+## Hot Prospects
+###### Build an app for conferences with tabs, context menus, and more
+100 Days of SwiftUI. Project 16: Hot Prospects. https://www.hackingwithswift.com/books/ios-swiftui/hot-prospects-introduction.
