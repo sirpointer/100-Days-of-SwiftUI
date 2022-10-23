@@ -34,3 +34,7 @@
 ## Layout and Geometry
 ###### Explore the inner workings of SwiftUI's layout system
 100 Days of SwiftUI. Project 18: Layout and Geometry. https://www.hackingwithswift.com/books/ios-swiftui/layout-and-geometry-introduction.
+
+## SnowSeeker
+###### Build an app for ski resorts that works great on iPad
+100 Days of SwiftUI. Project 19: SnowSeeker. https://www.hackingwithswift.com/books/ios-swiftui/snowseeker-introduction.
