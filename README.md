@@ -26,3 +26,7 @@
 ## Flashzilla
 ###### Use gestures and haptics to build a learning app
 100 Days of SwiftUI. Project 17: Flashzilla. https://www.hackingwithswift.com/books/ios-swiftui/flashzilla-introduction.
+
+## Layout and Geometry
+###### Explore the inner workings of SwiftUI's layout system
+100 Days of SwiftUI. Project 18: Layout and Geometry. https://www.hackingwithswift.com/books/ios-swiftui/layout-and-geometry-introduction.
