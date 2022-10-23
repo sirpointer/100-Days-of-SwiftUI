@@ -22,3 +22,7 @@
 ## Hot Prospects
 ###### Build an app for conferences with tabs, context menus, and more
 100 Days of SwiftUI. Project 16: Hot Prospects. https://www.hackingwithswift.com/books/ios-swiftui/hot-prospects-introduction.
+
+## Flashzilla
+###### Use gestures and haptics to build a learning app
+100 Days of SwiftUI. Project 17: Flashzilla. https://www.hackingwithswift.com/books/ios-swiftui/flashzilla-introduction.
