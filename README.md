@@ -7,6 +7,10 @@
 ###### Use Core Data to build an app that tracks books you like
 100 Days of SwiftUI. Project 11: Bookworm. https://www.hackingwithswift.com/books/ios-swiftui/bookworm-introduction.
 
+## Core Data
+###### Take an in-depth tour of how SwiftUI and Core Data work together
+100 Days of SwiftUI. Project 12: Core Data. https://www.hackingwithswift.com/books/ios-swiftui/core-data-introduction.
+
 ## Instafilter
 ###### Learn to link SwiftUI, UIKit, and Core Image in one app
 100 Days of SwiftUI. Project 13: Instafilter. https://www.hackingwithswift.com/books/ios-swiftui/instafilter-introduction.
